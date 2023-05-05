@@ -1,1 +1,4 @@
 node_modules
+
+# mongodb 반영 금지
+dev.js
